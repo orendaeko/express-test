@@ -4,7 +4,7 @@
 //   res.json({ message: "Hello guys. Welcome to Vercel" });
 // };
 
-import app from 'src/app';
+import app from './src/app';
 /**
  * Start Express server.
  */
